@@ -132,7 +132,7 @@
     </form>
     <!-- Submit form button with save icon -->
     <div class="flex justify-end gap-4">
-      <div class="tooltip" data-tip="Save">
+      <div class="tooltip" data-tip="Delete">
         <button
           id="delete-item"
           class="btn btn-square btn-error"

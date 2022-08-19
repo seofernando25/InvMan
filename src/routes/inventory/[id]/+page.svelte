@@ -32,7 +32,6 @@
     });
 
   function deleteItem() {
-    alert("Delete item");
     if (item) {
       // Delete item
       supabase
